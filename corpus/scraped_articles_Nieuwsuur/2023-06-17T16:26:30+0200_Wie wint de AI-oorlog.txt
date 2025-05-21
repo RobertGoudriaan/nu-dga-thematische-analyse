@@ -1,0 +1,31 @@
+Wie wint de AI-oorlog?
+2023-06-17T16:26:30+0200
+https://nos.nl/nieuwsuur/artikel/2479274-wie-wint-de-ai-oorlog
+
+Charlotte Broesterhuizen
+redacteur Nieuwsuur|
+Jelmer Jansma
+verslaggever Nieuwsuur
+Charlotte Broesterhuizen
+redacteur Nieuwsuur|
+Jelmer Jansma
+verslaggever Nieuwsuur
+"The AI-wars" wordt het genoemd: de strijd tussen de grote techbedrijven om dominantie op het vlak van generatieve kunstmatige intelligentie. Google en Microsoft staken tot nu toe miljarden in de ontwikkelingen van grote taalmodellen. Wie wint deze oorlog? En gaan de bedrijven niet te snel?
+De schok was groot toen OpenAI eind vorig jaar ineens met ChatGPT kwam, een revolutionaire tekstgenerator die angstaanjagend intelligent lijkt. Nog nooit werd een nieuwe applicatie zo snel omarmd door gebruikers; in amper twee maanden tijd had ChatGPT 100 miljoen gebruikers.
+Microsoft investeerde vooraf fors in OpenAI met een miljard dollar en de enorme rekenkracht van Microsoft, nodig om het taalmodel te trainen. Door de samenwerking kon Microsoft direct na de lancering al meteen meeliften op de technologie achter ChatGPT.
+"Je zult straks zien dat een chatbot de e-mails beantwoordt. Je kunt ze vragen om excelbestanden uit te leggen, of om gesprekken samen te vatten en om te zetten in een actielijst. Veel mensen hebben daar behoefte aan, zeker als je mailbox overloopt", zegt Rob Elsinga, National Technology Officer bij Microsoft.
+Zeven maanden na de lancering staan de ontwikkelingen rond chatbots nog steeds maar aan het begin, zegt Elsinga. Maar door hun investering heeft Microsoft nu een voorsprong.
+"Het is belangrijk om die voorsprong vast te houden. We staan aan het begin. Uiteindelijk gaat het erom dat mensen en bedrijven vertrouwen hebben in jouw technologie. De partners en startups die weer om ons systeem heen groeien maken ons platform succesvol."
+Vorige maand presenteerde Google een nieuwe experimentele manier om te zoeken, met generatieve AI. Begin dit jaar blunderde Google tijdens de introductie van de nieuwe dienst Bard. Deze week werd bekend dat de lancering in Europa wordt uitgesteld.
+Volgens verschillende media zorgde de snelle opmars van ChatGPT voor paniek bij Google. Het bedrijf wilde juist voorloper zijn op het gebied van AI en investeerde er fors in. "Het is absoluut geen wedstrijd", onderstreept Joris Schoonis van Google Benelux. "Ook bij onze zoekmachine waren wij niet de eerste. Wij doen dit zorgvuldig en verantwoord. Daar komen wij het verst mee."
+De komst van ChatGPT is een revolutie, zegt Schoonis, vergelijkbaar met de komst van internet en de overgang naar mobiel. Maar van een AI-oorlog is volgens hem geen sprake. Ook kan je volgens hem niet zeggen dat Google te voorzichtig is geweest.
+"We kennen de kracht van AI. We kunnen er maatschappelijk gezien veel goede zaken mee doen. Voor regulering willen we samenwerken met academici en met overheden. Dat is een vraagstuk dat wij niet alleen kunnen oplossen bij Google."
+Frank van Harmelen, hoogleraar AI aan de VU, ziet wel degelijk een harde strijd tussen de techgiganten. Dat levert volgens hem problemen op, bijvoorbeeld omdat techgiganten geheimhouden hoe zij hun modellen trainen.
+"We weten niet goed wat chatbots wel en niet kunnen. Sinds de lancering staan deskundigen nog bijna dagelijks versteld: wow, dit kan-ie. Of juist: wow, dat kan-ie niet. We weten hoe het systeem technisch in elkaar zit, maar we weten niet met welke data wordt getraind en waartoe het systeem eigenlijk in staat is. Terwijl dit hele circus in handen is van Amerikaanse techgiganten."
+Volgens Van Harmelen is eerst regulering nodig. De technologie is wat hem betreft nog niet rijp om uit te rollen over een breed publiek. "Het is vergelijkbaar met een nieuw medicijn. We weten niet goed bij wie die pil wel goed werkt en bij wie niet. We weten eigenlijk ook niet waarom die pil zo goed werkt. Maar we geven het wel alvast aan de paar honderd miljoen patiënten."
+Elsinga vindt niet dat Microsoft te snel gaat met de uitrol. "Het is belangrijk dat we uitvinden wat mooie dingen zijn, en waar potentiële ongewenste effecten zitten. Microsoft is al zes jaar mee bezig met het verantwoord gebruiken van AI."
+Buiten de EU is de Google-tekstgenerator Bard al in veel landen te gebruiken. Volgens Schoonis wacht Google met de uitrol in Nederland tot het aan alle Nederlandse wet- en regelgeving voldoet. "Dat moet op een veilige manier. Daarvoor nemen we de tijd."
+Van Harmelen denkt dat grote Amerikaanse bedrijven niet zo dominant zullen blijven als nu het geval is. "De algoritmes, dus de rekenmethodes die je gebruikt om die modellen te maken, zijn bekend. Die worden ook nagebouwd. Dus ik denk dat Google en Microsoft en Facebook zich terecht een beetje op het hoofd krabben en denken: Dit is niet meer een technologie waar wij het alleenrecht op hebben. En wat mij betreft is dat maar goed ook."
+Nieuwsuur
+Tech
+Deel artikel:

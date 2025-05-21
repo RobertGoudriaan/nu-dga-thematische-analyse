@@ -1,0 +1,22 @@
+Ambtenaren gebruiken onveilig vergaderprogramma: 'Data waardevol voor spionnen'
+2024-06-06T07:00:02+0200
+https://nos.nl/nieuwsuur/artikel/2523333-ambtenaren-gebruiken-onveilig-vergaderprogramma-data-waardevol-voor-spionnen
+
+De Nederlandse overheid is grootgebruiker van het videobelprogramma Webex. Uit Duits onderzoek blijkt dat dat programma niet zo veilig is als het belooft. Een journalist van de krant Die Zeit kon maandenlang gegevens verzamelen van tienduizenden videovergaderingen van overheidsfunctionarissen in heel Europa, ook van Nederlandse ministers. Tegen Nieuwsuur vertelt ze wat ze heeft ontdekt en waarom die data waardevol zijn voor spionnen of criminelen.
+Voor vergaderingen op afstand gebruiken veel Nederlandse overheidsorganisaties het programma Webex, van de Amerikaanse techgigant Cisco. Het programma zou veiliger zijn dan andere populaire videobel-programma's als Zoom en Microsoft Teams. Toch lukte het Eva Wolfanger, techjournalist bij Die Zeit, maandenlang om informatie over tienduizenden Nederlandse vergaderingen te verzamelen. Waaronder ook vergaderingen van bewindslieden als demissionair ministers Hugo de Jonge en Dilan Yesilgöz.
+Wolfanger wist vergaderlinks uit meerdere Europese landen te verzamelen, maar de meeste kwamen uit Nederland. "De Nederlandse overheid is duidelijk een grote klant van Cisco. We vonden links van ruim tienduizend vergaderingen van Nederlandse overheidsfunctionarissen, ook van ministers en andere hooggeplaatste personen."
+Dit is metadata die heel waardevol kan zijn voor spionnen en criminelen.
+Bij vergaderingen van Duitse ambtenaren lukte het Wolfanger daadwerkelijk in de vergadering te komen. "Ik nam deel aan een vergadering van de SPD, de Sociaaldemocratische Partij, en ze hadden niet eens door dat ik er was."
+Bij Nederlandse vergaderingen heeft ze dit niet geprobeerd, maar ze wist wel informatie over de vergaderingen te verzamelen die normaal gesproken niet openbaar zou mogen zijn. "Bijvoorbeeld de titel van de vergadering, wat er werd besproken, wie er aan deelnamen, hoe lang het overleg duurde."
+Op het eerste oog lijken het misschien onschuldige gegevens, maar voor criminelen of buitenlandse inlichtingendiensten kan het zeer waardevolle data zijn, schetst Wolfanger. "Op basis van die duizenden vergaderingen kun je analyseren wie met wie praat, hoe vaak zij met elkaar praten en waarover. Dat is metadata die heel interessant kan zijn voor spionnen en criminelen."
+Om de data te verzamelen, hoefde Wolfanger niets te hacken. Ze legt uit dat de url's van de Webex-vergaderingen makkelijk te vinden waren. "En door alleen een cijfer aan de url toe te voegen, kon je daaropvolgende vergaderingen ook vinden. Het is echt een basale regel in cybersecurity dat dit niet moet kunnen."
+In Duitsland lukte het dus ook om aan te haken bij sommige vergaderingen. Een wachtwoord was daarvoor niet nodig. In Nederland is dat wel het geval, zegt cybersecurity-deskundige Inge Bryan. "De Nederlandse overheid gebruikt al lang Webex en in de standaardinstellingen zitten daar wachtwoorden op. In Duitsland is dat niet zo."
+Journalist Wolfanger heeft de Nederlandse overheid zelf geïnformeerd over het datalek. Demissionair staatssecretaris Van Huffelen (Digitale Zaken) zegt teleurgesteld te zijn dat Cisco de Nederlandse overheid niets heeft gezegd. "We hebben hen gevraagd hier morgen op het ministerie uit te komen leggen wat er precies is gebeurd en wat voor gegevens naar buiten kunnen zijn gekomen."
+Deskundige Bryan snapt de boosheid van Van Huffelen. "Er zijn in de afgelopen jaren verschillende dingen naar boven gekomen over dit soort vergaderplatforms. Ik kan me voorstellen dat ze niet bij het eerste probleem meteen wisselen van diensteverlener, maar ik begrijp ook dat ze willen weten wat er nu precies is gebeurd en dan opnieuw een afweging maken."
+Volgens Van Huffelen wordt er in Webex-vergaderingen nooit over zeer gevoelige informatie gesproken, maar Nieuwsuur hoort van bronnen dat dat wel degelijk gebeurt. Zo zouden besprekingen over economisch gevoelige zaken, zoals steun voor ASML of de krimp van Schiphol, via Webex hebben plaatsgevonden. Maar ook onderhandelingen met andere landen over asiel.
+In een schriftelijke reactie laat Cisco aan Nieuwsuur weten inmiddels actie te hebben ondernomen. Ook Van Huffelen zegt dat het lek inmiddels is gedicht en dat de ministeries gewoon blijven videovergaderen. "Omdat dat past bij de nieuwe manier van werken."
+Nieuwsuur
+Binnenland
+Buitenland
+Tech
+Deel artikel:

@@ -1,0 +1,24 @@
+Van supermarkt tot de politie, AI wordt volop ingezet op de werkvloer
+2025-02-09T18:08:42+0100
+https://nos.nl/nieuwsuur/artikel/2555189-van-supermarkt-tot-de-politie-ai-wordt-volop-ingezet-op-de-werkvloer
+
+De ontwikkelingen op het gebied van artificial intelligence (AI) volgen elkaar in enorm tempo op. En AI leidt ook op de werkvloer tot grote veranderingen. Dat is goed te zien bij een aantal van de grootste werkgevers van Nederland.
+Een grote cateringfabriek op Schiphol voorziet dagelijks zo'n driehonderd KLM-vluchten van maaltijden. Het is een complexe klus, zegt Mike Fieten van KLM. De luchtvaartmaatschappij probeert met hulp van AI te voorspellen hoeveel maaltijden op een vlucht nodig zijn. "We weten dat 3 tot 5 procent van onze passagiers niet op tijd komt voor hun vlucht. Maar elke dag is anders."
+Ook het weer en vertragingen hebben invloed. "Met AI kunnen we beter voorspellen hoeveel passagiers we aan boord zullen hebben en hebben we minder maaltijden aan boord die we niet gebruiken."
+Per vlucht bespaart KLM dankzij AI gemiddeld 2,5 maaltijd, zegt Fieten. "Dat keer 300 vluchten per dag betekent dat we op jaarbasis best veel maaltijden besparen die voorheen werden weggegooid."
+Dat AI razendsnel de weg vindt naar de werkvloer blijkt ook uit antwoorden van elf grote werkgevers op vragen van Nieuwsuur. De bedrijven zetten AI in voor uiteenlopende toepassingen.
+Zo heeft Philips een intern AI-platform, vergelijkbaar met ChatGPT. De Rabobank gebruikt AI onder meer voor de ondersteuning van de klantenservice. PostNL plant met AI routes voor pakketbezorging en facilitair bedrijf Vebego heeft een AI-schoonmaakassistent.
+De werkgevers die Nieuwsuur benaderde, verwachten vooralsnog niet dat AI massaal werknemers overbodig zal maken. Zo zegt de Belastingdienst: "Het doel van de inzet van AI (...) is niet om mensen te vervangen." Industrieconcern VDL verwacht dat AI juist banen oplevert.
+Bij Albert Heijn is het dagelijks een grote puzzel welke producten naar welke van de 1200 winkels moeten. "We hebben gemiddeld 17.000 verschillende artikelen per winkel en willen vijftig dagen vooruit voorspellen wat we verwachten te verkopen", zegt hoofd product en AI Noortje van Genugten. "We hebben meer dan een miljard voorspellingen per dag. Daardoor is AI onmisbaar, want het is voor een mens niet meer te bevatten."
+De supermarktketen gebruikt sinds twee jaar zelflerende algoritmes voor de voorspellingen. Van Genugten: "De modellen houden rekening met het weer. Niet alleen het algemene weer, maar het weer van ieder lokaal weerstation."
+"Als het in Groningen bbq-weer is, maar in Maastricht niet, dan voorspellen de AI-modellen dat de bbq-producten alleen naar Groningen moeten."
+AI bepaalt bij Albert Heijn ook de beste strategie voor de verkoop van artikelen die nog kort houdbaar zijn. "Onze algoritmes bekijken iedere 15 minuten wat de beste korting is. Is er nog veel voorraad, dan wordt de korting 40 procent, bij minder voorraad wordt het 25 procent", zegt Van Genugten. De supermarktketen verspilt hierdoor - naar eigen zeggen - 400.000 kilo minder voedsel.
+Ook de politie zet AI al volop in. Onder meer bij het doorzoeken van dossiers en het opnemen van aangiftes, maar ook op straat. Na een oproep vanuit de meldkamer hebben agenten soms weinig tijd om zich in te lezen en voor te bereiden op de situatie die ze zullen aantreffen. Via een AI-app kunnen agenten snel de juiste werkinstructie vinden, ook als ze niet de juiste zoekterm invoeren.
+"Dat het zo snel zou gaan met AI, zag denk ik niemand aankomen", zegt Daniël Stuart, projectmanager AI bij de Nationale Politie. Tegelijkertijd verwacht hij niet dat AI mensen gaan vervangen bij de politie. "Geen enkel AI-systeem is perfect. Ook in de toekomst zullen mensen de AI-systemen blijven controleren."
+Dat beaamt Ton Wilthagen, hoogleraar arbeidsmarkt. Hij verwacht wel dat door AI banen zullen veranderen. "Als we 65 jaar terugkijken, zijn tijdelijke dipjes in de steeds stijgende arbeidsparticipatie in Nederland tot nu toe veroorzaakt door economische crises. Banen verdwijnen niet door de introductie van nieuwe technologieën als de pc, fax, internet, robotica en nu AI."
+Al is niet iedereen daar zeker van. De afgelopen tijd maakten verschillende bedrijven die AI inzetten al ontslagen bekend. En uit een recente enquête van het World Economic Forum onder duizend bedrijven wereldwijd, komt de verwachting naar voren dat 11 procent van de werkenden tussen 2025 en 2030 zijn of haar baan kan verliezen door AI.
+En eind vorig jaar bleek uit het jaarlijkse CEO-onderzoek van ING dat steeds meer bestuurders van grote Nederlandse bedrijven verwachten dat kunstmatige intelligentie banen gaat vervangen.
+Wilthagen: "AI kan nieuwe banen en functies creëren en leiden tot meer vraag naar producten en diensten. En daarmee ontstaat er ook weer meer vraag naar menselijke arbeid in die nieuwe functies."
+Nieuwsuur
+Binnenland
+Deel artikel:

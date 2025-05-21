@@ -1,0 +1,22 @@
+Doorbraak in quantumland: 'ongekend veilig' internet stap dichterbij
+2025-03-17T20:20:34+0100
+https://nos.nl/nieuwsuur/artikel/2560127-doorbraak-in-quantumland-ongekend-veilig-internet-stap-dichterbij
+
+Quantuminternet is mede dankzij Nederlandse wetenschappers weer een stap dichterbij. Een Europees onderzoeksteam onder leiding van de TU Delft heeft een besturingssysteem gebouwd dat het mogelijk maakt quantuminternet te programmeren zonder dat je verstand hebt van de techniek zelf.
+Een doorbraak, zegt Stephanie Wehner, de hoogleraar die leiding geeft aan het onderzoeksteam waaraan ook Franse en Oostenrijkse wetenschappers meedoen. Hun bevindingen werden vorige week gepubliceerd in het toonaangevende wetenschappelijke tijdschrift Nature.
+"Europa en met name Nederland laten met dit besturingssysteem dingen zien die nog nooit eerder op de wereld zijn gebeurd"
+Ook hoogleraar innovatie Deborah Nas benadrukt het belang van deze deels Nederlandse uitvinding. Quantumwetenschappers hoeven voortaan namelijk geen "speciale programmeertaal" meer te kennen. "We gaan nu naar de volgende fase die gebruiksvriendelijker en toegankelijker wordt voor mensen van andere disciplines."
+Ons huidige internet werkt met bits. Die bestaan uit een 0 of een 1. Quantuminternet gebruikt bits die tegelijk 0 en 1 kunnen zijn. Die bits kunnen met elkaar verbonden worden, hoe ver ze ook van elkaar verwijderd zijn.
+Dat maakt het mogelijk om zeer snel en superveilig te communiceren. Quantuminternet wordt namelijk gezien als 'onhackbaar'. "Als je afgeluisterd wordt, merk je het direct", zegt hoogleraar Nas. "Want op het moment dat je een meting doet aan kwantumdeeltjes veranderen ze van staat." Ideaal voor defensie, de overheid en de financiële sector.
+Volgens Nas zal quantuminternet waarschijnlijk "een extra laag" worden bovenop normaal internet. In eerste instantie zullen vooral overheden en grote bedrijven er gebruik van maken. "En op lange termijn zou het heel goed kunnen dat consumenten dat ook gaan doen."
+Quantumtechniek mag dan nog in de kinderschoenen staan, toch experimenteert het Rotterdamse Havenbedrijf er al mee. In samenwerking met de Delftse start-up Q*Bird bouwden ze een ultrabeveiligd, niet te hacken netwerk.
+Q*Bird-directeur Remon Berrevoets is lyrisch over de futuristische quantumcommunicatietechniek: "Het is een ongekende manier om te zorgen dat jouw data helemaal veilig zijn, en niet afgeluisterd. Dit zou echt niet mogelijk zijn met klassieke communicatie zoals we die nu hebben."
+De start-up groeit snel: twee jaar geleden was er één werknemer, op dit moment zijn dat er 24. Die groei is mede mogelijk gemaakt door miljoenensubsidies van de EU en het Nationaal Groeifonds. "Europa wil niet afhankelijk zijn van landen als de VS of China voor deze kritieke technologie", zegt Berrevoets.
+Nederland geldt als een van de koplopers op het gebied van quantumtechnologie. Het Nationaal Groeifonds heeft 615 miljoen euro toegezegd voor een programma om quantumcomputers, -netwerken en -sensoren te ontwikkelen. Ook komt binnenkort in Amsterdam een grote Europese quantumcomputer te staan. Die wordt gebouwd in opdracht van de Europese Commissie, om zo de concurrentiepositie op het gebied van de technologie te versterken.
+Volgens innovatiehoogleraar Deborah Nas is Nederland "ongelofelijk goed" in quantum. "We denken dat we hiermee een toekomstige economie kunnen creëren. En dus banen."
+Maar de vraag is of de investeringen genoeg zijn. Waar Nederland tot en met 2023 zo'n 1 miljard dollar investeerde in quantumonderzoek, spendeerden enkele andere landen fors meer. Amerika 3,8 miljard, Duitsland 5,2 miljard en absolute koploper is China met 15,3 miljard.
+Als het aan de Delfste quantumonderzoeker Stephanie Wehner ligt, laat Nederland zich niet afschrikken door die bedragen. "We zitten in een goede positie. Om daar te blijven hebben we wel grotere investeringen nodig. Zodat we deze technologie kunnen overzetten naar innovatie."
+Nieuwsuur
+Binnenland
+Tech
+Deel artikel:

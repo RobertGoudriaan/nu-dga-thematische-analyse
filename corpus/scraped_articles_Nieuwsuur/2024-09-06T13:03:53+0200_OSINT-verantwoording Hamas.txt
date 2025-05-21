@@ -1,0 +1,13 @@
+OSINT-verantwoording Hamas
+2024-09-06T13:03:53+0200
+https://nos.nl/nieuwsuur/artikel/2536083-osint-verantwoording-hamas
+
+Lees hieronder een toelichting op het OSINT-onderzoek dat wij deden voor het verhaal over Hamas.
+Om het aantal raketten dat Hamas af heeft gevuurd op Israël sinds 7 oktober 2023 in kaart te brengen, gebruikten we data van Armed Conflict Location & Event Data (ACLED). Zij monitoren lokale berichtgeving over neergekomen raketten. Het is belangrijk om te vermelden dat de dataset alleen de afgevuurde raketten dan wel raketfragmenten omvat die Israël daadwerkelijk hebben bereikt en/of tegengehouden werden door de Iron Dome. Het is onbekend hoeveel raketten die Hamas afvuurt op Israël al in Gaza zelf neerkomen.
+Om in kaart te brengen welke wapens Hamas gebruikt, analyseerden we zo'n twintig video's die de Al Qassam Brigades, de militaire tak van Hamas, zelf delen op hun website en sociale media. We verifieerden de video's waar mogelijk en legden onze bevindingen ter verificatie voor aan twee experts van ARES, een onderzoeksbureau dat onderzoek doet naar wapens en munitie. Zij bevestigden dat in een deel van de video's wapens van Iraanse en Chinese makelij te zien zijn.
+In een video waarin Al Qassam laat zien hoe ze zelf een geïmproviseerd explosief in elkaar zetten van landmijnen om een Israëlische tank op te blazen, vonden we Hebreeuws schrift op een van de landmijnen. Ook deze beelden legden we aan de experts voor. Zij concludeerden dat de kans zeer groot is dat dit inderdaad een landmijn is die werd gebruikt door de Israëli's, maar het valt niet met zekerheid vast te stellen of Al Qassam-strijders de landmijn hebben opgegraven in Gaza of hebben gestolen van een IDF-basis.
+Naast de beelden van Al Qassam verifieerden we ook beelden van meerdere raketten die neerkwamen in Israël, bijvoorbeeld de raketaanval op een speeltuin in de zuidelijke stad Be'er Sheva.
+Wat is er, na bijna een jaar oorlog, nog over van Hamas?
+Nieuwsuur
+Buitenland
+Deel artikel:

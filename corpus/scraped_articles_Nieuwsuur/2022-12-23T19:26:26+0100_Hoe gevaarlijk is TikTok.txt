@@ -1,0 +1,28 @@
+Hoe gevaarlijk is TikTok?
+2022-12-23T19:26:26+0100
+https://nos.nl/nieuwsuur/artikel/2457547-hoe-gevaarlijk-is-tiktok
+
+Arjan van der Linden
+redacteur Nieuwsuur
+Arjan van der Linden
+redacteur Nieuwsuur
+Medewerkers van TikTok-moederbedrijf ByteDance hebben kritische journalisten bespioneerd door op ongepaste manier toegang te krijgen tot hun TikTok-gebruikersdata, bleek donderdag uit intern onderzoek van het bedrijf. De medewerkers zijn ontslagen, maar het roept wel de vraag op: hoe veilig is het om TikTok te gebruiken? Welke gegevens verzamelt het bedrijf? En kan de Chinese overheid er ook bij?
+Welke gegevens TikTok allemaal verzamelt en wat het bedrijf ermee doet, is nog niet helemaal duidelijk, zegt universitair hoofddocent burgerlijk recht aan de Radboud Universiteit Pieter Wolters. "Maar er zijn sterke aanwijzingen dat ze meer kunnen inzien dan ze mogen. Op dit moment doen verschillende toezichthouders in Europa en de Verenigde Staten onderzoek naar welke gegevens TikTok precies verzamelt en of ze daar vanuit China toegang toe hebben."
+Wel weten we, onder meer door onthullingen als die van deze week, steeds meer over wat het bedrijf verzamelt, zegt Dave Maasland, CEO van IT-veiligheidsbureau ESET Nederland. "TikTok weet in ieder geval alles wat je doet in hun eigen app. Ze weten welke video je bekijkt, kunnen je chatberichten inzien en houden je klikgedrag bij. Op papier hebben ze ook toestemming om te zien wat je typt, hoe je typt en zelfs om biometrische gegevens zoals gezichtsafbeeldingen op te slaan." Ook houden ze een aantal gegevens buiten de app bij, zoals je locatie en je IP-adres.
+"Door de app te gebruiken, geef je daar toestemming voor", zegt Maasland. "Het staat allemaal in de privacyvoorwaarden, zelfs dat ze die biometrische gegevens kunnen verzamelen. Al kun je je afvragen hoe duidelijk die voorwaarden zijn en hoeveel mensen ze lezen."
+De situatie bij ByteDance en eerdere journalistieke onthullingen duiden erop dat TikTok vanuit China informatie over persoonsgegevens van Europese gebruikers kan inzien. Dat mag niet, zegt Wolters. "Bedrijven mogen persoonsgegevens alleen verwerken onder de strenge voorwaarden van de AVG. Dat betekent onder andere dat dat alleen mag binnen de Europese Unie of andere landen die de bescherming van persoonsgegevens waarborgen."
+Een land als de VS valt daar niet onder, omdat veiligheidsdiensten daar allerlei gegevens mogen inzien. "Als we dat doortrekken, kunnen we zeggen dat er zeker geen toegang vanuit China mag zijn."
+Persoonsgegevens kunnen namen, adressen of mailadressen van gebruikers zijn. Of informatie over welke filmpjes iemand kijkt, hoe lang diegene dat doet en analyses daarvan, dus wat iemands voorkeuren zijn.
+We weten niet goed wat TikTok uiteindelijk met je data zal kunnen.
+Als je als gebruiker toestemming geeft voor het verzamelen van zulke gegevens, zodat de app je bijvoorbeeld filmpjes kan laten zien die passen bij je locatie, mag TikTok je locatie verwerken en daar de voorgeschotelde filmpjes op aanpassen. "Maar een medewerker uit China mag daar op geen enkele manier bij kunnen komen."
+Het is überhaupt vreemd dat medewerkers bij locatiedata van gebruikers kunnen komen, zegt privacy-advocaat Gerrit-Jan Zwenne. "De AVG verlangt van appmakers privacy by design en privacy by default. Dat betekent onder andere dat ze hun systeem zo moeten inrichten dat medewerkers niet zomaar gevoelige gegevens van appgebruikers kunnen inzien."
+We moeten ervan uitgaan dat de Chinese autoriteiten gegevens die bij TikTok bekend zijn, kunnen inzien, zegt Wolters. "TikTok ontkent dat, maar het is algemeen bekend dat er korte lijntjes lopen tussen Chinese autoriteiten en Chinese bedrijven. We kunnen ervan uitgaan dat TikTok gegevens zal doorgeven als de Chinese autoriteiten daarom vragen."
+Een aanwijzing van die korte lijntjes is een eerdere onthulling van zakentijdschrift Forbes, waaruit bleek dat 300 TikTok en ByteDance-medewerkers eerder voor de Chinese staatsmedia werkten.
+Moet je er dan vanuit gaan dat China over je schouder meekijkt zodra je TikTok opent? "Voor de meeste mensen is het risico dat de Chinese overheid iets met jouw gegevens wil niet zo groot", zegt Wolters. Tenzij je journalist of politicus bent of om een andere reden informatie kan hebben die de Chinese autoriteiten interesseert, is de kans klein dat ze je gebruikersinformatie willen inzien.
+Tegelijkertijd is er wel een groot risico voor de Nederlandse en Europese democratieën, zegt hij. "TikTok zou je persoonlijke voorkeuren kunnen gebruiken voor desinformatie en propaganda, om Chinese doelen te promoten. We kunnen niet uitsluiten dat dat gebeurt."
+Het veiligste is om TikTok helemaal niet te installeren en te gebruiken, zegt privacy-advocaat Gerrit-Jan Zwenne. "Ouders kunnen via bijvoorbeeld de ouderlijk toezichtfunctie op de iPhone voorkomen dat hun kind de app installeert."
+Als je dat wel doet, zijn er een aantal simpele zaken die je kunt regelen, zegt Dave Maasland van IT-veiligheidsbureau ESET Nederland. "Daarbij gaat het al om de geboortedatum en het mailadres dat je aan TikTok doorgeeft. Daar hoef je echt niet eerlijk over te zijn."
+Het belangrijkste is volgens Maasland dat je op een regenachtige zondag een keer door de privacy-instellingen van de app gaat. "Als je in de TikTok-app naar 'instellingen' en dan naar 'privacy' gaat, kun je bijvoorbeeld instellen dat TikTok je locatie niet mag zien en ook de locatie-instellingen verwijderen. Je kunt ook 'account aanbevelen aan anderen' uitschakelen, zodat TikTok geen toegang krijgt tot je contactendatabase."
+Nieuwsuur
+Tech
+Deel artikel:

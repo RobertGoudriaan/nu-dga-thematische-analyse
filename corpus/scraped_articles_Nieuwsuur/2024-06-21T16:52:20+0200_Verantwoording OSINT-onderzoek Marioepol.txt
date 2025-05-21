@@ -1,0 +1,25 @@
+Verantwoording OSINT-onderzoek Marioepol
+2024-06-21T16:52:20+0200
+https://nos.nl/nieuwsuur/artikel/2525568-verantwoording-osint-onderzoek-marioepol
+
+Laurie Treffers
+OSINT-redacteur Nieuwsuur
+Koen Koopman
+redacteur Nieuwsuur
+Laurie Treffers
+OSINT-redacteur Nieuwsuur
+Koen Koopman
+redacteur Nieuwsuur
+Om zicht te krijgen op het aantal gesloopte gebouwen in Marioepol, vroegen we data op bij Italiaan Alex S. (@4LEX5) die verbonden is aan onderzoekscollectief Tochnyi. In samenwerking met inwoners uit Marioepol houdt hij bij hoeveel huizen er door de Russische bezetter zijn gesloopt. Hun kaart omvat inmiddels 342 gebouwen die er niet meer staan.
+Dit zijn er in werkelijkheid waarschijnlijk een stuk meer. Niet alleen omdat ze kleinere huizen niet meenemen in deze dataset, de officiële lijst van de Russische overheid van gebouwen die gesloopt worden telt alleen al 465 gebouwen.
+We controleerden 10 procent van de aangeleverde data. Dat deden we door gebouwen uit de dataset te vergelijken met satellietbeelden van PlanetLabs. In alle gevallen waren de gebouwen inderdaad met de grond gelijkgemaakt.
+Bekijk hier de vergelijkingen van satellietbeelden van onze steekproef.
+Een deel van deze 34 gebouwen staat op de officiële Russische lijst van zogenoemde "geïdentificeerde objecten zonder eigenaar van een onvoltooide constructie". Met satellietbeelden konden we vaststellen dat een deel van de gebouwen door de gevechten in de stad al zodanig waren beschadigd dat ze voor de sloop al onbewoonbaar waren. Een ander deel van de gesloopte woningen leek vanuit de lucht nog grotendeels intact te zijn. Waarom deze woningen neergehaald zijn, blijft dus onduidelijk.
+De video die gepost werd door een Russische blogger op haar Telegramkanaal kan gezien worden als propaganda. We vonden het daarom van belang om de video te verifiëren: klopt het dat dit makelaars in Marioepol zijn? En zien we hier inderdaad woningen in de bezette stad?
+Dat deden we door de twee makelaars die in de video worden geïnterviewd te identificeren. We vonden via reverse image search een van de vrouwen, die directeur van het bedrijf Business Territory Mariupol is. We zien deze vrouw opnieuw verschijnen in een promotievideo van dat makelaarsbureau op hun Telegram-kanaal. Haar collega, die ook te zien is in de video van de Russische blogger, komt ook in die video voor.
+Ook hebben we de exacte locatie van drie gebouwen die getoond worden in de video achterhaald. We keken bijvoorbeeld naar het uitzicht vanuit de woningen, bijzondere gebouwen in de omgeving en straatnaamborden. Zo konden we concluderen dat de video op verschillende plekken in Marioepol is opgenomen.
+We checkten het verhaal van onze bron Vaagn door de locatie van zijn huizen te verifiëren. Op satellietbeelden is te zien dat een van zijn huizen tussen 23 en 25 juni 2023 is gesloopt. Het adres komt ook voor in de lijst ter aankondiging van woningen die gesloopt worden van de Russische overheid in Marioepol uit juli 2023.
+We hebben alle drie de huizen van onze bron geverifieerd, maar in verband met de veiligheid van familieleden van de geïnterviewde delen we de exacte adressen niet.
+Nieuwsuur
+Buitenland
+Deel artikel:

@@ -1,0 +1,30 @@
+Verantwoording onderzoek Russische donaties
+2024-07-24T18:05:14+0200
+https://nos.nl/nieuwsuur/artikel/2530117-verantwoording-onderzoek-russische-donaties
+
+Laurie Treffers
+OSINT-redacteur Nieuwsuur
+Laurie Treffers
+OSINT-redacteur Nieuwsuur
+Russische militairen zamelen via Rusland-gezinde influencers geld in om uitrusting te kopen voor de oorlogsvoering in Oekraïne. Nieuwsuur ontdekte dat die betalingen veelal lopen via een bedrijf dat is gevestigd in Nederland. Lees hieronder de verantwoording van ons onderzoek.
+Bekijk hier de video:
+Voor dit verhaal monitorden we verschillende Telegram-groepen die gebruikmaakten van links naar Boosty en het kleinere daaraan gelieerde DonationAlerts. Het grootste account is @warhistoryalconafter van Kirill Fedorov. Fedorov deelt regelmatig posts over de apparatuur die hij gedoneerd heeft aan Russische brigades. Ook publiceert hij video's waarin Russische militairen de volgers van Fedorov bedanken voor hun donaties.
+De gezichten van de militairen worden onherkenbaar gemaakt. Vaak zijn ook herkenningspunten in de omgeving vervaagd om de locatie van de brigades niet vrij te geven. Dit maakt verificatie lastig: is de apparatuur daadwerkelijk bij het Russische leger terechtgekomen?
+We hebben gekeken naar wat we wel konden verifiëren. Vaak poseren de militairen met de ontvangen spullen voor bijvoorbeeld een vliegtuig of helikopter. In een aantal van de geanalyseerde foto's zien we de militairen bijvoorbeeld poseren voor een Su-25, een grondaanvalsvliegtuig dat momenteel ingezet wordt in Oekraïne. Op andere foto's staan ze voor een Ka-52-helikopter, ook op dit moment actief in Oekraïne. We legden onze bevindingen voor aan een onafhankelijke expert die onze conclusie over de voertuigen bevestigde.
+Ook keken we of de dronedetectors en GPS-horloges die de militairen toonden, overeenkwamen met de producten die Fedorov zegt te doneren. Met behulp van Reverse Image Search via Google en Yandex vergeleken we de detectors en horloges met productfoto's om na te gaan of het hier inderdaad om apparatuur gaat die kan worden ingezet voor militaire doeleinden. Op basis van de militaire voertuigen op de achtergrond en de verificatie van de geleverde producten is het aannemelijk dat het hier inderdaad gaat om apparatuur die terechtkomt bij Russische brigades die in Oekraïne strijden.
+Op 6 maart deelt Fedorov een post over een incident waarbij zes Oekraïense militairen zijn gedood. Hij claimt daarbij dat de militairen zijn gespot dankzij de door hem geleverde powerbank die de warmtebeeldcamera zou aandrijven. Om erachter te komen of dat klopt, zijn we dit incident nader gaan onderzoeken.
+Volgens verschillende pro-Russische Telegram-accounts en websites zoals Politnavigator zijn minstens zes Oekraïense militairen van de 73rd Marine Special Forces om het leven gekomen toen zij een operatie uitvoerden aan de kust van het eiland Tendrivska kosa in Cherson.
+Andere Russische bronnen melden 20 doden, maar op de gepubliceerde foto's van de boot zijn zes dode militairen te zien. Het officiële Telegram-kanaal van de Oekraïense Special Forces bevestigt dat er op 28 februari militairen van het 73rd Naval Special Operations Center zijn omgekomen bij een operatie.
+Fedorov's claim dat de warmtebeeldcamera waarmee de Russische troepen de Oekraïense Special Forces zagen, werd aangedreven door de 160.000 mAh powerbank die hij doneerde, valt niet onafhankelijk te bevestigen.
+Om te kijken welke Telegram-kanalen nog meer gebruikmaken van Boosty, hebben we de tool Telemetrio ingezet. Door te zoeken op de Boosty-link, kregen we honderden resultaten. Die hebben we doorgespit. We vonden met deze methode meerdere Telegram-kanalen die Boosty ook inzetten om geld in te zamelen voor apparatuur, munitie en militaire uitrusting voor het Russische leger.
+Een van die kanalen is The Imperial Club, dat in februari 2024 een YouTube-video postte waarbij drie Russische militaire bloggers naar de bezette stad Loehansk (Oost-Oekraïne) rijden om een wagen vol spullen af te leveren. We verifieerden deze video door drie aanknopingspunten in de video te verifiëren. Daarmee konden we bevestigen dat de drie mannen inderdaad in de winter in Loehansk zijn geweest.
+Aan de hand van het militaire embleem op de arm van de mannen die de spullen aannemen, konden we achterhalen dat zij militairen van het Oeral-bataljon zijn.
+Dit bataljon werd volgens het Institute for the Study of War (ISW) in oktober 2023 omgedoopt tot de "137th Separate Motorized Rifle Brigade". Volgens DeepStateMap, een online interactieve kaart die bijhoudt waar troepen in Oekraïne gestationeerd zijn, vecht de 137e brigade op dit moment zo'n 175 kilometer ten noordwest van Loehansk aan de frontlinie.
+Het derde Telegram-kanaal dat veelvuldig Boosty inzette, is @bolshiepushki. Aleksej Smirnov reist zelf regelmatig af naar bezet Oekraïens gebied en de frontlinie en deelt ook video's van zichzelf waar hij zelf meevecht.
+Om te bevestigen of hij inderdaad in Oekraïens bezet gebied komt, verifieerden we een video van 12 juli 2024. De video is een compilatie waarin Smirnov en zijn compagnon tassen met voedsel en andere humanitaire goederen uitdelen aan bewoners. Dankzij deze video kunnen we bevestigen dat Smirnov recentelijk in Staromykhailivka, een nederzetting in de Donbas, is geweest. In andere video's op zijn kanaal laat Smirnov zien welke droneonderdelen hij met behulp van donaties heeft aangeschaft.
+Daarnaast maakten we bij wijze van proef een klein bedrag over aan een Boosty-gebruiker die anoniem wil blijven. Zo stelden we vast dat geld van donateurs vanuit Nederland, via MyGames, naar Rusland wordt overgemaakt.
+Nieuwsuur
+Collectie
+Verborgen Werelden
+Binnenland
+Deel artikel:

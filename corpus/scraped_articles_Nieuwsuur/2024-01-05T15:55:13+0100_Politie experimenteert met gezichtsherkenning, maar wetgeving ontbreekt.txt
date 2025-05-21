@@ -1,0 +1,33 @@
+Politie experimenteert met gezichtsherkenning, maar wetgeving ontbreekt
+2024-01-05T15:55:13+0100
+https://nos.nl/nieuwsuur/artikel/2503831-politie-experimenteert-met-gezichtsherkenning-maar-wetgeving-ontbreekt
+
+Mark Schrader
+verslaggever Nieuwsuur
+Yoeri Vugts
+onderzoeksredactie
+Anne Mae van Tilburg
+Mark Schrader
+verslaggever Nieuwsuur
+Yoeri Vugts
+onderzoeksredactie
+Anne Mae van Tilburg
+Hoewel specifieke wetgeving ontbreekt mag de politie van minister Yeşilgöz (Justitie en Veiligheid) experimenteren met gezichtsherkenningstechnologie. Sinds 2019 mocht de politie dit niet omdat er geen juridische en ethische waarborgen voor waren.
+Maar de politie ontwikkelde ongeveer een jaar geleden zelf een document met uitgangspunten voor de inzet van gezichtsherkenning. Voor Yeşilgöz is dat voldoende om experimenten toe te staan. De Autoriteit Persoonsgegevens is daar bezorgd over.
+De enige gezichtsherkenningssoftware die de politie al die jaren wel mocht gebruiken is CATCH. Daarmee kunnen ze beelden vergelijken met een database met foto's van 1,6 miljoen verdachten en veroordeelden. Ook foto's van vreemdelingen komen in die database voor. Maar de overgrote meerderheid van Nederlandse burgers staat niet in dat systeem en daarom is automatische gezichtsherkenning beperkt.
+Nu de politie een nieuw protocol heeft ontwikkeld mogen ze dus wel weer experimenteren. Een interne beoordelingscommissie van de politie beoordeelt aanvragen die gaan over de inzet van gezichtsherkenning.
+Het afgelopen jaar zijn er zes aanvragen gedaan. Eén daarvan is goedgekeurd. Twee aanvragen zijn nog in behandeling en de andere drie aanvragen haalden de eindstreep niet omdat ze zijn ingetrokken of niet in behandeling zijn genomen.
+Gezichtsherkenningstechnologie kan zó diep ingrijpen in ons leven.
+Over de achtergrond van de goedgekeurde aanvraag heeft de minister de Tweede Kamer niet geïnformeerd. Nieuwsuur vroeg naar de context van de inzet, maar het OM liet aanvankelijk weten niet op de casus in te kunnen gaan. Inmiddels zegt de politie dat het ging om een zaak waarin het gezicht van een verdachte automatisch is vergeleken met in beslag genomen beeldmateriaal.
+Gezichtsherkenning valt onder het verzamelen van bijzondere persoonsgegevens. Net als vingerafdrukken en dna zijn gelaatskenmerken biometrische gegevens. Voor het verzamelen van vingerafdrukken en dna is specifieke wetgeving waarmee de politie rekening moet houden. Voor gezichtsherkenning is geen wetgeving.
+Dat de politie zonder enig debat vooraf in de politiek of extra paar ogen van buiten experimenteert, verbaast deskundigen. "Vanuit democratisch oogpunt is het beter als bevoegdheden voor de staat en de politie in een wet worden omschreven", zegt hoogleraar ICT & Recht Frederik Zuiderveen Borgesius. "Gezichtsherkenningstechnologie kan zó diep ingrijpen in ons leven, dat het beter zou zijn we met zijn allen discussiëren over wanneer de staat die techniek mag gebruiken."
+Ook de Autoriteit Persoonsgegevens is kritisch. "Dit is de omgekeerde volgorde", zegt voorzitter Aleid Wolfsen. Hij vindt dat eerst wetgeving nodig is en dat de politie pas daarna een protocol over gezichtsherkenning zou moeten maken. Overigens was de Autoriteit Persoonsgegevens niet betrokken bij de totstandkoming van het protocol.
+Momenteel is de autoriteit wél in gesprek met de politie. Wolfsen: "We willen weten wat ze precies doen. We waarschuwen ze ook: weet dat er nog geen algemene wetgeving is die dit mogelijk maakt."
+De politie stelt dat het ook op basis van huidige wetgeving ook mogelijk is. Een woordvoerder benadrukt dat er nog geen sprake is van live gezichtsherkenning in de openbare ruimte, waarbij gelaatsuitdrukkingen direct kunnen worden vergeleken met profielen. Ook stelt de politie dat een strafrechter altijd nog kijkt of de inzet van gezichtsherkenning door de beugel kan.
+Maar die vlieger gaat niet op, stelt hoogleraar Law & Data Science Bart Custers. "Het probleem is dat in veel gevallen zaken niet bij een rechter uitkomen. Met name juist in een situatie waar iemand niet schuldig is of niks misdaan heeft, komt het nooit tot een zaak bij de rechter. Maar ondertussen zijn er wel inbreuken gemaakt op de rechten van mensen."
+De politie wil gezichtsherkenning in de toekomst breder inzetten. Met name de combinatie van een beoordeling door kunstmatige intelligentie en een controle achteraf door een paar menselijke ogen, kan een identificatie verbeteren.
+Gezichtsherkenning door alleen mensen is ook foutgevoelig. Zo werden na een demonstratie op Schiphol zeker zeven personen ten onrechte aangewezen als verdachte van een strafbaar feit, terwijl later bleek dat deze mensen helemaal niet bij de demonstratie aanwezig waren. Een van hen is Kirsten Verdel:
+Ruim een jaar na de demonstratie kan de Marechaussee nog altijd niet uitleggen hoe ze bij bepaalde personen zijn uitgekomen. De instantie erkent dat het proces beter had gemoeten. Er loopt nog een onderzoek naar hoe het fout kon gaan. De volledige vragen en antwoorden aan de Marechaussee en het Openbaar Ministerie lees je hier.
+Nieuwsuur
+Binnenland
+Deel artikel:

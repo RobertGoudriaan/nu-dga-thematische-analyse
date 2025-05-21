@@ -1,0 +1,14 @@
+Toelichting: Twitter-reacties op vertrek Sigrid Kaag
+2023-07-14T18:21:56+0200
+https://nos.nl/nieuwsuur/artikel/2482833-toelichting-twitter-reacties-op-vertrek-sigrid-kaag
+
+Gisteren, 13 juli, maakte demissionair minister en D66-leider Sigrid Kaag haar besluit om niet verder te gaan in de politiek bekend via Twitter. Ze noemt in de verklaring "haat, intimidatie en bedreiging" en het effect daarvan op haar gezin de reden is om te stoppen.
+Om erachter te komen wat voor soort berichten Kaag krijgt als ze Twitter opent op de dag van de bekendmaking van haar vertrek, namen we haar eigen tijdlijn onder de loep.
+Het betrof geen academisch onderzoek, maar we keken alleen ter illustratie wat haar vertrek-bericht voor reacties opriep. We analyseerden daarom alleen directe antwoorden op haar bericht, tot 19.00 uur 's avonds, tot 1000 berichten.
+Die berichten selecteerden we willekeurig: van boven naar onder, van onder naar boven, maar ook via de query: to:sigridkaag waar de nieuwste reacties op haar bericht binnenkwamen.
+Deze berichten verdeelden we onder in positieve (42%) en negatieve reacties (58%).
+We keken bij de negatieve reacties naar de meest gebruikte termen. In veel berichten gaat het over verwijten die vaak gebruikt worden door complotdenkers, zoals het WEF (World Economic Forum) en tribunalen. Verder kwamen de woorden bezemsteel, heks en landverrader regelmatig voorbij. Andere termen die te lezen zijn: hoer, moslimliefje, satanist.
+We hadden daarvan een wordcloud willen maken, op basis van de onderliggende data (van de 1000 geanalyseerde tweets) dus. Waarbij bepaalde voorkomende termen groter in beeld zouden komen te staan dan anderen. Dat hebben we echter niet op basis van de data gedaan, maar op basis van leesbaarheid. Achterafgezien was de keuze voor deze vorm niet de juiste.
+Nieuwsuur
+Binnenland
+Deel artikel:

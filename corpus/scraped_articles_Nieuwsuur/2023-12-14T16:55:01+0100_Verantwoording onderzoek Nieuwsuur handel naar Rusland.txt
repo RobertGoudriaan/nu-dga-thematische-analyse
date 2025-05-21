@@ -1,0 +1,38 @@
+Verantwoording onderzoek Nieuwsuur handel naar Rusland
+2023-12-14T16:55:01+0100
+https://nos.nl/nieuwsuur/artikel/2501582-verantwoording-onderzoek-nieuwsuur-handel-naar-rusland
+
+Mitchell van de Klundert
+redacteur Nieuwsuur
+Siebe Sietsma
+onderzoeksredactie
+Mitchell van de Klundert
+redacteur Nieuwsuur
+Siebe Sietsma
+onderzoeksredactie
+Nieuwsuur onderzocht de aanvoerroutes van westerse technologie naar Rusland voor de tweedelige serie Verborgen Werelden. Lees in in dit artikel hoe we ons onderzoek hebben uitgevoerd. Onderaan staan verwijzingen naar de volledige reacties van personen en bedrijven die we spraken.
+Om een beeld te krijgen van de manier waarop Rusland aan technologische producten komt, spraken we met diverse experts, bedrijven, en advocaten. We spraken ook bronnen die anoniem willen blijven, bijvoorbeeld omdat ze verdachte zijn in een strafproces. We bezochten rechtszittingen in Nederland en reisden naar verschillende locaties in binnen- en buitenland. We spraken daarbij ook bronnen die anoniem moeten blijven.
+We haalden informatie over personen onder meer uit openbare bronnen, zoals profielen op sociale media. We zochten ook in niet-openbare bronnen zoals bedrijvenregisters in binnen- en buitenland, waaronder de Kamer van Koophandel. We mochten voor dit onderzoek gebruik maken van databases van Bureau van Dijk, a Moody's Company, OCCRP, Scoutasia en The Daphne Caruana Galizia Foundation. De informatie ordenden we met het computerprogramma Maltego en sloegen we veilig op.
+Data spelen een grote rol in ons onderzoek. Centraal staat een database met Russische douanegegevens waartoe we toegang kregen via het Amerikaanse bedrijf Importgenius. Importgenius verzamelt en verkoopt handelsgegevens, met name aan bedrijven.
+We kregen voor de periode van ons onderzoek toegang tot de volledige importgegevens van Rusland. Daarmee konden we zien wat Rusland importeerde in het eerste jaar van de oorlog in Oekraïne. Die informatie is later aangevuld met gegevens, tot en met augustus 2023.
+Er is een reden waarom Rusland deze importgegevens openbaar maakt, zegt Importgenius. Het bedrijf stelt dat Rusland richting veel landen nog altijd als betrouwbare handelspartner wil overkomen; het helpt dan om in die data te kunnen zien met wie je handeldrijft.
+We keken niet alleen naar de gegevens van Importgenius. Via twee andere bedrijven die in data handelen, en die niet bij naam genoemd willen worden, verifieerden we de overeenkomsten van de informatie. Onderzoek op basis van gegevens van Importgenius zijn eerder verschenen in onder andere The New York Times en de Financial Times.
+De douanedata bevatten informatie over producten zoals omschrijving, gewicht, hoeveelheid, prijs, en producent. Ook staat er wie er voor de producten heeft betaald, het afleveradres, en wie de producten heeft verstuurd. In de gegevens worden ook het land van herkomst vermeld, en de locatie van waaruit de producten zijn verstuurd.
+Belangrijk in de data zijn de HS-codes (Harmonised System-codes). Die code geeft aan onder welke productgroep de zending valt. Deze HS-codes worden overal ter wereld gebruikt voor de handel. Ook de Europese Unie gebruikt de codes bij het opstellen van sancties.
+In de sanctiepakketten van de EU zijn bijvoorbeeld micro-elektronica gesanctioneerd door te verwijzen naar de bijbehorende HS-codes. We hebben voor dit onderzoek die codes vergeleken met de codes van de Russische importgegevens en vonden duizenden overeenkomsten. Ook van Europese bedrijven, waaronder Nederlandse bedrijven.
+Er worden voortdurend nieuwe codes toegevoegd aan de Europese sanctielijsten. Daarom hebben we bij zendingen richting Rusland steeds een marge van ten minste een maand genomen. Een voorbeeld: bij codes die per 7 oktober 2022 op de sanctielijst kwamen te staan, zijn we ze pas halverwege november 2022 gaan meetellen als potentiële sanctieontduiking.
+De sanctieregels kennen tal van uitzonderingen. Het versturen van een product dat op de sanctielijst staat, is daarom niet meteen een overtreding. Zo geldt soms dat producten alsnog naar Rusland mogen, als een contract al was afgesloten voor het product gesanctioneerd was. En er zijn uitzonderingen voor medische producten. We hebben verschillende exporteurs gevraagd om uitleg over hun zendingen. In sommige gevallen werd die gegeven, in andere gevallen niet.
+Dit Nieuwsuur-onderzoek is uitgevoerd door Mitchell van de Klundert en Siebe Sietsma. De montage van het tweeluik werd gedaan door Douwe Veldhuisen en de visualisaties in de artikelen en de serie zijn gemaakt door Lars Boogaard.
+Voor het eerste deel werkten we samen met het Duitse programma Monitor van de ARD en de Britse defensiedenktank Royal United Services Institute (RUSI).
+De publicatie van Monitor staat hier.
+De publicatie van RUSI staat hier.
+Boris Rudyak, de eigenaar van Kompel
+WWSemicon
+Europese Commissie
+AIVD / MIVD
+Nieuwsuur
+Collectie
+Verborgen Werelden
+Binnenland
+Buitenland
+Deel artikel:

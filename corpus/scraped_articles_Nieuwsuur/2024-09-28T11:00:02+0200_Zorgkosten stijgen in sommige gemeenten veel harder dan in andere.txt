@@ -1,0 +1,32 @@
+Zorgkosten stijgen in sommige gemeenten veel harder dan in andere
+2024-09-28T11:00:02+0200
+https://nos.nl/nieuwsuur/artikel/2538792-zorgkosten-stijgen-in-sommige-gemeenten-veel-harder-dan-in-andere
+
+Sjors Hofstede
+datajournalist Nieuwsuur
+Sjors Hofstede
+datajournalist Nieuwsuur
+Er bestaan grote verschillen tussen Nederlandse gemeenten in de stijging van zorgkosten, die niet te verklaren zijn door vergrijzing. Dat blijkt uit nieuwe gegevens van zorg-informatiecentrum Vektis over declaraties bij verzekeraars, die door Nieuwsuur zijn geanalyseerd.
+De verschillen zijn grotendeels het gevolg van ongelijkheid in welvaart en opleidingsniveau. Vooral in gemeenten met relatief arme inwoners liggen de zorgkosten hoog.
+Mensen met een lager inkomen hebben meer stress, wonen in slechtere gebouwen en worden meer blootgesteld aan reclame voor slecht voedsel.
+Een voorbeeld: op het eerste oog verschilt de bevolking van het Groningse Stadskanaal maar weinig van die van het Gelderse Rozendaal. In beide gemeenten is meer dan de helft van de bevolking ouder dan 45, en de man-vrouwverhouding is redelijk in balans. Op basis van die factoren liepen de verwachte zorgkosten per inwoner voor 2022 dan ook weinig uiteen: zo'n 3.250 euro in Stadskanaal, en 3.140 euro in Rozendaal.
+Maar de werkelijkheid is anders: in Stadskanaal werd in 2022 gemiddeld 3.940 euro gedeclareerd aan zorg in de basisverzekering (inwoners betalen dit dus niet zelf). Slechts in drie gemeenten lag dat bedrag hoger. Rozendaal, daarentegen, bevindt zich met 2.420 euro aan de andere kant van de lijst. In 2011 was het verschil tussen de gemeenten nog maar 300 euro.
+Door heel Nederland stijgen zorgkosten in hoog tempo, wat leidt tot hoofdbrekens bij zorgaanbieders, verzekeraars en de politiek. De gemiddelde inwoner declareerde in 2022 ruim 2.900 euro aan zorgkosten. Zorgverzekeraar DSW, die afgelopen week als eerste de (gestegen) zorgpremie bekendmaakte, meldde daarbij dat "de rek er echt uit is".
+Maar de mate waarin zorgkosten uitdijen, wisselt sterk per gemeente. In 2011 zat er nog 1200 euro verschil tussen de gemeenten met de hoogste en de laagste kosten, in 2022 al 1800. Verschillen veroorzaakt door leeftijd zijn logisch - ouderen gebruiken immers meer zorg dan jongeren - maar in veel gemeenten stijgen de kosten sneller dan je zou verwachten op basis van de gemiddelde leeftijd en man-vrouwverhouding. Zoals ook blijkt uit onderstaande kaart:
+Scroll naar onderen voor een interactieve kaart met details over de zorgkosten in jouw gemeente.
+Deze verschillen zijn problematisch, zegt hoogleraar gezondheidseconomie Jochen Mierau. Zorgkosten zijn volgens hem een sterke indicator van gezondheid in een regio. "Dus we zien ongelijkheid in gezondheid tussen regio's, wat betekent dat een deel van de bevolking niet kan deelnemen aan de samenleving zoals ze zouden willen."
+Onder dat deel van de bevolking zijn Nederlanders met een kleinere portemonnee oververtegenwoordigd. Mierau constateerde in zijn onderzoek dat de sociaaleconomische status, een score op basis van welvaart en opleidingsniveau, een belangrijke voorspeller is van hogere zorgkosten.
+Ook de analyse van Nieuwsuur toont een sterke samenhang aan tussen de sociaaleconomische status en de stijging van zorgkosten. Zo staat Stadskanaal bijna onderaan de ladder, en Rozendaal helemaal bovenaan.
+"Mensen met een lager inkomen hebben bijvoorbeeld meer stress, wonen in slechtere gebouwen en worden meer blootgesteld aan reclame voor slecht voedsel", licht Mierau de invloed van de sociale klasse toe. Bovendien, zegt hij: "Een sportabonnement is moeilijker te betalen, en het is goedkoper om 2.000 calorieën aan chips en cola binnen te krijgen, dan aan broccoli."
+De hoogleraar onderzocht een aantal van die leefstijlfactoren. Minder roken en drinken blijkt in alle sociale klassen te leiden tot een daling in zorgkosten. Meer bewegen heeft het meeste effect bij lagere klassen.
+Dit blijkt ook uit de Vektis-cijfers: in gemeenten waar volgens het RIVM de minste inwoners sporten, stijgen de zorgkosten 5 procent sneller dan in de gemeenten met de meeste sporters. Niet geheel verrassend: Stadskanaal behoort tot de eerste groep, Rozendaal tot de tweede.
+Ook het kabinet lijkt de impact van een (on)gezonde leefstijl op zorgkosten te erkennen. "Voorkomen blijft immers beter dan genezen", zegt staat in het regeerprogramma.
+Mooie woorden, vindt Mierau, maar hij ziet nog weinig maatregelen. "Ze verlagen het eigen risico om de zorg toegankelijker te maken, maar preventie begint al veel eerder. Met de 4 miljard euro die nodig is om het eigen risico te verlagen kan je de 1 miljoen mensen in bestaansonzekerheid veel beter helpen."
+De btw-verhoging op sportabonnementen noemt Mierau onverstandig: "Zeker voor kinderen is een abonnement vaak al moeilijk te betalen. Dit is een maatregel met veel maatschappelijke impact, waarvan ik me afvraag wat die fiscaal op gaat leveren."
+Bekijk hieronder de gedeclareerde zorgkosten voor 2022 per gemeente. Selecteer een gemeente om de verwachte kosten, de stijging sinds 2011, de sociaaleconomische status en het percentage wekelijkse sporters te zien.
+Voor deze analyse bundelde Nieuwsuur de opendatabestanden van informatiecentrum Vektis, dat gegevens van alle verzekerden in Nederland verzamelt. Vervolgens berekenden we voor iedere gemeente de gezamenlijke kosten van alle zorgsoorten per jaar, en de kosten per inwoner door deze totalen te delen door het aantal verzekerde jaren (de inschrijvingsduur van een inwoner in een jaar).
+Om de stijgingen van deze kosten te corrigeren voor leeftijd en geslacht, werd voor iedere combinatie van leeftijd en geslacht een gemiddelde aan kosten berekend, om zo per jaar te kunnen vaststellen wat de verwachte kosten waren op basis van de bevolkingssamensteling. Op deze manier kon worden geanalyseerd hoe de daadwerkelijke stijging afweek van de verwachte stijging.
+Alle Vektis-cijfers werden hierna gekoppeld en vergeleken met CBS-gegevens over de sociaal-economische status en de gezondheidsmonitor van het RIVM, voor gegevens over leefstijl. Alle beschreven verschillen zijn statistisch significant.
+Nieuwsuur
+Binnenland
+Deel artikel:

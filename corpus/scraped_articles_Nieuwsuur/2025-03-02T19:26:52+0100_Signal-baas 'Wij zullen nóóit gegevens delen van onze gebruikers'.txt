@@ -1,0 +1,24 @@
+Signal-baas: 'Wij zullen nóóit gegevens delen van onze gebruikers'
+2025-03-02T19:26:52+0100
+https://nos.nl/nieuwsuur/artikel/2557974-signal-baas-wij-zullen-nooit-gegevens-delen-van-onze-gebruikers
+
+Berichtendienst Signal groeit hard nu veel gebruikers een alternatief zoeken voor de apps van techgiganten die zich openlijk achter president Donald Trump hebben geschaard. En dan gaat het niet alleen om gezellige buurt- en familieapps, maar ook om de communicatie binnen bedrijven, overheden en organisaties.
+Signal staat al weken steevast in de top-3 van meest gedownloade apps. De app belooft volledige bescherming van gegevens. Maar kan het die intenties waar blijven maken, nu Signal zo hard groeit en opereert tussen techgiganten met hoge budgetten en machtige politieke vrienden?
+Mensen zouden niet meer om privacy geven. Dat is overduidelijk niet waar.
+Topvrouw van Signal, Meredith Whittaker, heeft er alle vertrouwen in. "Signal slaat geen gegevens op. We bestuderen geen gebruikerspatronen. We hebben geen locatiedata. We weten niet wie je belt of wie je contacten zijn", zegt Whittaker in gesprek met Nieuwsuur.
+De topvrouw maakt zich al jaren druk om privacy. "Ik werk al twintig jaar in deze branche. Ik weet nog dat ik tien jaar geleden met techmensen aan tafel zat en me verteld werd dat culturele normen waren veranderd, dat men niet meer om privacy gaf. Dat is overduidelijk niet waar."
+Onderzoeksjournalist bij de Volkskrant Huib Modderkolk schreef een boek over de gevaren van moderne technologie. Hij zegt dat Whittaker een track record heeft als het gaat om het verantwoord maken van die technologie. "Ze heeft zich daar altijd hard voor gemaakt en idealistisch opgesteld. Anders dan de grote techbazen die winstmaximalisatie als doel hebben."
+Zo organiseerde Whittaker bij haar vorige werkgever Google protesten tegen seksueel wangedrag op de werkvloer en banden van het bedrijf met het Amerikaanse leger. Google nam haar dat niet in dank af en Whittaker vertrok. Sinds 2022 staat ze aan het hoofd van Signal met als uitgangspunt van de app: privacy boven alles.
+Net als op Whatsapp is op Signal de inhoud van berichten versleuteld en dus alleen te lezen door de zender en de ontvanger. Eventueel onderschepte berichten kunnen niet worden ontcijferd. Maar er is een belangrijk verschil zegt Modderkolk. "WhatsApp verzamelt ondertussen meer data over jou als gebruiker."
+Dat verschil zit 'm in de zogeheten 'metadata'. Waar Signal alleen de aanmaakdatum en het laatste moment van gebruik registreert, is die lijst bij WhatsApp een stuk langer. En al die data deelt WhatsApp met het moederbedrijf Meta. Overheden kunnen die data opvragen, bijvoorbeeld in opsporingszaken.
+Modderkolk: "Dat kan een probleem zijn als je iets te vrezen hebt van een overheid. Of als je een minderheid bent. Of als je demonstreert in een land waar de overheid niet zit te wachten op demonstranten. Dat kan dus om allerlei redenen een probleem worden."
+Meta verdient geld met al onze data. Het bedrijf heeft toegang tot ons leven.
+'Metadata' klinkt technisch en niet zo belangrijk, zegt Whittaker. "Maar het is wie je bent, je profielfoto, je contacten. Wie er in je appgroep zit, de locatiedata. Allemaal zeer onthullende informatie."
+Modderkolk bevestigt dat. "Het verdienmodel van Meta is data. Het verdient geld met al onze data. Dat is de reden dat Meta zo ontzettend groot is met Facebook, Instagram, WhatsApp. Omdat het bedrijf toegang heeft tot ons leven en die data verkoopt aan bijvoorbeeld advertentiebedrijven. Bij Signal is dat radicaal anders."
+Het bedrijf van Whittaker opereert als stichting, zonder winstoogmerk. "We willen niet gedreven worden door winst en groei boven alles. Het doel mag niet groter zijn dan onze primaire missie", zegt de topvrouw. "We hebben geen reden om dat principe op te geven."
+Signal wil investeerders niet boven de mensen stellen van wie ze de privacy willen beschermen, zo is de intentie. Maar is dat vol te houden met donaties en een paar dollar per maand van gebruikers? Het bedrijf geeft inmiddels 50 miljoen dollar per jaar uit. Whittaker: "We geven zoveel uit als nodig is en we worden goed gesteund."
+Volgens Modderkolk gaat het met Signal inderdaad goed, al betekent dat ook meer risico's. "Het is een stevige en grote partij aan het worden. Dat maakt het ook interessant voor financiers om te kijken: kunnen we het bedrijf kopen? Of voor overheden om te kijken of ze toch niet ergens bij de data kunnen komen?"
+Maar voor overheden die chatapps vragen de inhoud van berichten te ontsleutelen voor opsporing, zoals nu in wetsvoorstellen op tafel liggen in Zweden en Frankrijk, heeft Whittaker een heldere boodschap: "We vertrekken nog liever uit zo'n land dan dat we aan zo'n eis zullen voldoen. Als de duivel, God, Trump of wie dan ook dat vraagt, zullen we dat altijd weigeren."
+Nieuwsuur
+Buitenland
+Deel artikel:

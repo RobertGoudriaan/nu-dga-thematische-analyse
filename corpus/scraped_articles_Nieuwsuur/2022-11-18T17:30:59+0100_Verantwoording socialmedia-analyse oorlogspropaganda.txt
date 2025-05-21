@@ -1,0 +1,16 @@
+Verantwoording socialmedia-analyse oorlogspropaganda
+2022-11-18T17:30:59+0100
+https://nos.nl/nieuwsuur/artikel/2452912-verantwoording-socialmedia-analyse-oorlogspropaganda
+
+Voor ons onderzoek naar oorlogspropaganda over de strijd in Oekraïne voerden we onderzoeken uit op Facebook en Twitter. Voor Facebook zetten we CrowdTangle in, voor Twitter gebruiken we het platform Trollrensics.
+Om het gehele gesprek over Oekraïne op Twitter af te vangen zochten we naar Nederlandstalige tweets waarin de term 'Oekraïne' wordt gebruikt.
+We halen van januari tot oktober in totaal 879.985 originele tweets op waarin de term 'Oekraïne' gebruikt wordt. Door het binnenhalen van deze tweets weten we hoe vaak de term per dag gebruikt wordt op Twitter: dit stelt ons in staat een tijdlijn te maken van gebeurtenissen waar veel of weinig op werd gereageerd.
+We hebben vervolgens de meest gedeelde en meest leuk gevonden tweets uit de dataset geïnventariseerd. Deze 'populaire' zijn gecategoriseerd om te achterhalen wat in 2022 de meest voorkomende narratieven zijn in tweets waar de term 'Oekraïne' wordt gebruikt. Hierbij keken we ook of er desinformatie werd verspreid.
+Daarnaast keken we welke hashtags en domeinen het meest zijn gedeeld en hebben we geïnventariseerd welke gebruikers het meest actief bezig waren met de term 'Oekraïne'.
+Nieuwsuur keek ook specifiek naar gebruik van de term 'Oekraïne' in de maand oktober. We halen in dit tijdsbestek in totaal 74,019 tweets op.
+Voor het onderzoek naar de maand oktober hanteerden we dezelfde werkwijze als bij de analyse over meerdere maanden in 2022: we keken naar de top 50 meest gedeelde en meest leuk gevonden tweets, welke narratieven in deze tweets voorkomen en wie deze tweets verspreiden. En ook hier keken we naar de meest actieve gebruikers, de meest gedeelde domeinen en de meest gedeelde hashtags op de term 'Oekraïne'.
+Met de tool Crowdtangle keek Nieuwsuur welke Nederlandstalige Facebook-posts over Oekraïne de meeste interacties hadden in oktober. We zochten op de term 'Oekraïne' op openbare Nederlandstalige Facebook-pagina's. Om Facebook-berichten uit België, Suriname en Zuid-Afrika uit te sluiten hebben we gezocht naar pagina's waarbij de administrator in Nederland gevestigd is. We hebben zodoende een lijst van de top 200 Nederlandstalige Facebook-posts met meeste interacties gegenereerd.
+In deze lijst zocht Nieuwsuur specifiek naar desinformatie in de berichten. We vonden in vergelijking met onze Twitter-analyse relatief weinig desinformatie in oktober op Facebook bij de berichten met de meeste tractie. We zagen in deze top 200 geen expliciet nepnieuws, wel vonden we een aantal opiniestukken van mensen en/of groepen die niet solidair zijn met het lot van Oekraïne en Oekraïners.
+Nieuwsuur
+Binnenland
+Deel artikel:

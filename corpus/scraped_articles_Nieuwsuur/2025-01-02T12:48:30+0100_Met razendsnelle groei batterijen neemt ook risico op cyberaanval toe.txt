@@ -1,0 +1,26 @@
+Met razendsnelle groei batterijen neemt ook risico op cyberaanval toe
+2025-01-02T12:48:30+0100
+https://nos.nl/nieuwsuur/artikel/2550358-met-razendsnelle-groei-batterijen-neemt-ook-risico-op-cyberaanval-toe
+
+Van de thuisbatterij tot batterijsystemen bij windparken: het aantal accu's in Nederland neemt de laatste jaren exponentieel toe. Maar met de toename van het aantal batterijen groeit ook de kwetsbaarheid voor een aanval op het elektriciteitsnet.
+Terwijl ons land in 2020 nog nauwelijks batterijen telde, waren er het afgelopen jaar al meer dan 40.000 in gebruik. Desondanks vormen batterijen in vergelijking met bijvoorbeeld zonnepanelen nu nog een klein deel van ons energiesysteem.
+Maar met een energievoorziening die in rap tempo elektrificeert, wordt het opslaan van energie steeds belangrijker. In de komende jaren moeten batterijen minstens een vijfde van die opslag gaan vormen.
+Als ik op het verkeerde moment de batterij opdracht zou geven tot laden, kan ik hier de stroomvoorziening van een hele wijk ontregelen.
+Net als veel zonnepanelen zijn batterijen tegenwoordig 'slim': ze zijn verbonden met het internet zodat de fabrikant gegevens kan verzamelen over het functioneren en de levensduur van de batterij. Dit verbetert de werking van de batterijen, maar maakt ze ook kwetsbaar voor hackers en voor kwaadwillende fabrikanten.
+En door grote batterijen op afstand de opdracht te geven te laden op een moment dat het elektriciteitsnet al aan de maximum stroomvraag zit, zou dit lokaal of zelfs regionaal tot stroomuitval kunnen leiden.
+Peter Palensky, hoogleraar smart grids aan de TU Delft, ziet inderdaad dat een slimmer elektriciteitsnet ook een kwetsbaarder net is. "Een verstoring via een batterij of grote groep zonnepanelen kan een kettingreactie veroorzaken. De kwetsbaarheid zit vooral in hoe je de batterij inpast in het energiesysteem, en de veiligheidsmaatregelen die je al dan niet neemt."
+Wel wijst hij erop dat batterijen in Nederland nu nog klein van schaal zijn. Een hackaanval of inmenging door de fabrikant zou nu alleen nog lokaal impact kunnen hebben. "Over vijf of tien jaar is dat anders, dan kan die impact regionaal of landelijk zijn. Dat maakt het belangrijk dat we dit op een goede manier reguleren."
+Palensky laat hier met een simulatie zien hoe kwaadwillenden via de batterij het stroomnet kunnen verstoren:
+Chinese fabrikanten domineren de wereldwijde batterijmarkt en dat baart de Amerikaanse overheid zorgen. Die onderzocht de cyberveiligheid van batterijen en besloot vorig jaar accu's van Chinese makelij weg te halen bij defensiecomplexen en andere kritieke infrastructuur. Maar Europa intensiveert de samenwerking met Chinese batterijgiganten juist.
+Tijn Swinkels, CEO van de Nederlandse batterijfabrikant DENS uit Helmond, begrijpt de Amerikaanse zorgen. Hij heeft zelf meerdere grote batterijprojecten in Nederland. "Ook wij hebben toegang tot die systemen, ook hier in Helmond. Als ik op het verkeerde moment de batterij opdracht zou geven tot laden, kan ik hier de stroomvoorziening van een hele wijk ontregelen."
+Swinkels maakt zich met name zorgen over batterijen van buitenlandse fabrikanten, uit landen waarmee de geopolitieke spanningen toenemen. Liever ziet hij dat de Europese Unie de eigen batterijproductie verder stimuleert. Of dat preken voor eigen parochie is? Volgens Swinkels niet: "We hebben de wind al in de rug, onze omzet is de afgelopen jaren met meer dan 1000 procent gegroeid."
+Ook de branchevereniging voor energieopslag, Energy Storage NL, zegt dat zij "de zorgen over de kwetsbaarheid van batterijsystemen met betrekking tot cyberveiligheid" delen. De brancheorganisatie pleit ervoor om binnen Nederland en Europa "in te zetten op een alternatieve batterijenindustrie".
+Vooralsnog staat dit onderwerp laag op de Nederlandse beleidsagenda. Cyberveiligheid komt in z'n geheel niet voor in de Nederlandse batterijenstrategie die in december nog werd geüpdatet. Dit terwijl de Europese Unie recent cybersecurityrichtlijnen heeft aangenomen die Nederland zal moeten invoeren.
+Energy Storage NL adviseert de Nederlandse regering goede wet- en regelgeving niet langer uit te stellen. "We roepen daarom het Nederlandse kabinet alsnog op om de [Europese] regelgeving zo snel als mogelijk door te voeren en ook te handhaven."
+De Rijksinspectie Digitale Infrastructuur laat in reactie weten dat ze de kwetsbaarheid van batterijen onderschrijven, maar zegt "risicogericht" te werken en wijst ook op het kleine aandeel dat batterijen nu nog hebben in ons energiesysteem. Aankomende zomer, als nieuwe Europese wetgeving in werking treedt, breidt de inspectie het toezicht uit naar accu's.
+Bart Groothuis, lid van het Europees Parlement (VVD/Renew Europe) en daar rapporteur Cybersecurity vertelde in Nieuwsuur wat de EU doet op het gebied van regulering omtrent batterijen:
+Nieuwsuur
+Binnenland
+Buitenland
+Tech
+Deel artikel:

@@ -1,0 +1,11 @@
+Verantwoording OSINT-onderzoek Avdiivka
+2024-02-10T08:33:55+0100
+https://nos.nl/nieuwsuur/artikel/2508256-verantwoording-osint-onderzoek-avdiivka
+
+Voor dit onderzoek maakten we gebruik van beelden van de strijd rondom Avdiivka op sociale media. We verzamelden beeld via Telegram, X en YouTube. De video's zijn afkomstig van Oekraïense en Russische militairen en brigades die zelf vechten in of rond Avdiivka of van militaire bloggers. Het is belangrijk om te beseffen dat deze bronnen een onvolledig beeld schetsen, omdat beide zijden vooral voor hen positieve informatie delen.
+De beelden hebben we geverifieerd door ze zo exact mogelijk te geolocaten en het moment van opname waar mogelijk te controleren.
+Voor het in kaart brengen van de materiële verliezen aan zowel Russische als Oekraïense zijde, maakten we gebruik van de gezamenlijke database van Oryx en WarSpotting. De voorbeelden die je in de video ziet, zijn ook door ons weer geverifieerd met behulp van extra informatie van GeoConfirmed, een open source investigations-community die zich richt op de oorlog in Oekraïne.
+We hebben de verschuivingen aan het front in beeld gebracht dankzij data die we kregen van het Amerikaanse Institute for the Study of War.
+Nieuwsuur
+Buitenland
+Deel artikel:

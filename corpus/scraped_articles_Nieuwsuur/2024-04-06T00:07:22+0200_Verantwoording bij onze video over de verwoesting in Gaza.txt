@@ -1,0 +1,26 @@
+Verantwoording bij onze video over de verwoesting in Gaza
+2024-04-06T00:07:22+0200
+https://nos.nl/nieuwsuur/artikel/2515664-verantwoording-bij-onze-video-over-de-verwoesting-in-gaza
+
+Laurie Treffers
+redacteur Nieuwsuur
+Laurie Treffers
+redacteur Nieuwsuur
+Ooggetuigen en mediaberichten bevestigen dat op 17 december een luchtaanval heeft plaatsgevonden op twee woningen in Jabalia Stad en dat daarbij tientallen doden zijn gevallen. Het gaat om de woningen van de families al-Barsh en Alwan.
+Aan de hand van de beelden die voor ons zijn gefilmd door een lokale cameraman, foto's op sociale media en satellietbeelden, konden we de woning exact lokaliseren. Op de satellietbeelden is de schade aan de huizen zichtbaar.
+We stellen het Israëlische leger (IDF) vragen over de aanval. Of ze kunnen bevestigen dat Israël de aanval uitvoerde en wie of wat het doelwit was. Maar de woordvoerders werken niet mee. Tegen het Franse persbureau AFP verklaart het leger een dag na de aanval wel dat het er alles aan doet om burgerdoden te voorkomen.
+Om in ieder geval zeker te zijn dat het om een luchtaanval gaat en niet om een explosie van een wapendepot bijvoorbeeld, of een mislukte raketlancering van Hamas, leggen we de beelden voor aan twee wapenexperts. Die beoordelen de beelden en komen onafhankelijk van elkaar tot de conclusie dat het om een luchtaanval gaat.
+Wat het doelwit van de luchtaanval was en of dat geraakt is, blijft dus onduidelijk. Maar hoe dan ook staat vast dat tientallen burgers in Jabalia Stad omkwamen bij dat bombardement.
+Met behulp van twee datasets hebben we de verwoesting van gebouwen in kaart gebracht. Voor onze basiskaart gebruikten we de UNOSAT Gaza Strip Comprehensive Damage Assessment uit januari 2024. Dit is de meest conservatieve schatting die op basis van satellietbeelden concludeert dat 35 procent van de gebouwen in Gaza sinds het begin van de oorlog in oktober 2023 is beschadigd.
+Andere onderzoekers schatten de verwoesting hoger in. Zo gebruiken de onderzoekers van de Decentralized Damage Mapping Group niet alleen satellietbeelden, maar ook een algoritme gebaseerd op de gebruikte munitie om de schade in Gaza in kaart te brengen. Vanuit de lucht zie je immers niet of gebouwen aan de zijkant beschadigd zijn, als het dak nog wel intact is. Zij komen uit op een verwoestingspercentage van 55 procent.
+De WHO monitort 36 ziekenhuizen in Gaza. De WHO liet weten dat die lijst bestaat uit de ziekenhuizen die worden beheerd door het Gazaanse Ministerie van Gezondheid, maar welke dat exact zijn wilden ze Nieuwsuur niet zeggen. De organisatie houdt bij welke ziekenhuizen er nog minimaal of deels actief zijn. Die lijst gaf de WHO ons wel.
+We gebruikten de WHO-data om in kaart te brengen welke ziekenhuizen nog deels opereren. Maar de status van de ziekenhuizen verandert continu door het gebrek aan brandstof, elektriciteit en belegeringen. Daarom wilden wij meer weten: hoeveel ziekenhuizen zijn er sinds het begin van de oorlog verwoest? Wij hebben een eigen selectie van 32 ziekenhuizen gemaakt en die nader onderzocht. Voor onze selectie gebruikten we de data van OpenStreetMap.
+We keken naar de grotere ziekenhuizen, maar ook naar de kleinere, gespecialiseerde ziekenhuizen die van levensbelang zijn voor de Gazaanse bevolking.
+Op basis van satellietbeelden, beeldmateriaal, data van de World Health Organization (WHO) en berichten uit internationale en lokale media, concludeerden we dat minstens 25 van de 32 ziekenhuizen beschadigd zijn sinds het begin van de oorlog. Vier daarvan zijn totaal verwoest, 21 zijn deels verwoest. Van zeven ziekenhuizen kon niet worden vastgesteld of zij nog intact dan wel beschadigd waren.
+Van de 32 ziekenhuizen zijn er op dit moment 11 ziekenhuizen deels of minimaal actief. Van vijf daarvan weten we dat ze ook deels beschadigd zijn. 21 ziekenhuizen zijn inactief, omdat ze zodanig beschadigd zijn, of omdat ze een zodanig gebrek aan elektriciteit en brandstof hebben dat ze niet kunnen functioneren.
+Klik hier om de overzichtslijst van de ziekenhuizen te bekijken (.pdf) of (.csv)
+Om de verwoesting van scholen in kaart te brengen, gebruikten we de data van Unicef. We hebben Unicef gevraagd om de coördinaten van de scholen, maar die wilden zij in verband met veiligheid niet vrijgeven. Daarom deden we een steekproef bij tien scholen om de onderliggende data te controleren. We hebben daarbij de satellietbeelden van de beschadigde scholen vergeleken met de satellietbeelden van voor de oorlog.
+WASH is het humanitaire samenwerkingsverband voor water, sanitair en hygiëne. We gebruikten hun data uit februari 2024 om de watersituatie in Gaza in beeld te brengen.
+Nieuwsuur
+Buitenland
+Deel artikel:

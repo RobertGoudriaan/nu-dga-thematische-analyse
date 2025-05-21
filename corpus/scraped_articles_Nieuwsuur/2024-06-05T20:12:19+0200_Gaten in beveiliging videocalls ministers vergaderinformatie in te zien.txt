@@ -1,0 +1,20 @@
+Gaten in beveiliging videocalls ministers: vergaderinformatie in te zien
+2024-06-05T20:12:19+0200
+https://nos.nl/nieuwsuur/artikel/2523301-gaten-in-beveiliging-videocalls-ministers-vergaderinformatie-in-te-zien
+
+Demissionair staatssecretaris Van Huffelen (Digitale zaken) gaat een onderzoek instellen naar een datalek bij het vergaderplatform van de Rijksoverheid. Dat zegt ze tegen Nieuwsuur. Aanleiding is een onderzoek van een Duitse journalist die kon inloggen in duizenden vergaderingen van Europese overheden. Nederland bleek in haar onderzoek het kwetsbaarst.
+De Duitse journalist Eva Wolfangel kon in de afgelopen maanden relatief makkelijk informatie verzamelen over duizenden videoconferenties van overheidsinstellingen in meerdere Europese landen. Bij een aantal lukte het ook om in te bellen bij vergaderingen.
+Overheidsorganisaties en bedrijven in landen als Duitsland, Nederland, Italië en Frankrijk gebruiken het softwareprogramma Webex voor videovergaderingen. Het programma is vergelijkbaar met Zoom of Microsoft Teams. Moederbedrijf Cisco adverteert Webex als bijzonder veilig.
+Desondanks lukte het Wolfangel om informatie te verzamelen over duizend bijeenkomsten van de Duitse overheid en ruim tienduizend digitale vergaderingen van ambtenaren in Nederland. Tegen Nieuwsuur zegt ze dat ze van negen recente vergaderingen van Nederlandse bewindslieden informatie heeft achterhaald, waaronder het gespreksonderwerp en de datum en tijd van de vergadering.
+Wolfangel zegt dat ze niet daadwerkelijk heeft ingebeld bij die vergaderingen. Details over de inhoud en wie er aan deelnemen, zouden ook niet openbaar mogen zijn. Een softwareprogramma als Webex zou die informatie moeten beschermen, zegt Wolfangel.
+Tussen de Nederlandse vergaderingen van bewindslieden zaten ook gevoelige vergaderingen, zoals een overleg tussen bewindspersonen, de terugkoppeling aan de minister van een ambtelijk overleg in Brussel en de voorbereiding van een debat over crisisbeheersing. Het gaat om vertrouwelijke vergaderingen.
+Ook informatie over een vergadering over het 'programma Bewaken en Beveiligen' was door de journalist in te zien. Dat programma gaat over de beveiliging van personen waar een dreiging tegen uitgaat.
+Links naar toekomstige vergaderingen waren ook vanavond nog door Nieuwsuur te zien. De Rijksoverheid heeft de vergaderingen niet geannuleerd, maar wel de informatie over de bijeenkomsten vergrendeld met een wachtwoord.
+Staatssecretaris Van Huffelen zegt dat Die Zeit ook gegevens heeft verzameld van vergaderingen waar zij zelf aan heeft deelgenomen. "We weten de omvang nog niet. Dat gaan we onderzoeken. We zijn vooral ontzettend teleurgesteld. Het feit dat je niet veilig kunt werken met dit videosysteem, is niet goed. De leverancier heeft ons hiervan niet op de hoogte gesteld.
+In een brief aan de Tweede Kamer meldt Van Huffelen dat de kwetsbaarheden in het systeem inmiddels zijn verholpen waardoor "dit incident op dit moment geen gevolgen heeft voor het gebruik van Webex door de Rijksoverheid."
+Begin maart werd bekend dat Rusland een video-overleg van de Duitse luchtmachtleiding had afgeluisterd. Bij die vergadering werd ook Webex gebruikt, maar volgens de Duitse minister van Defensie gebruikte een van de deelnemers een onbeveiligde verbinding. Journalist Wolfangel ziet geen direct verband tussen dit afluisterschandaal en haar onderzoek.
+Nieuwsuur
+Binnenland
+Buitenland
+Tech
+Deel artikel:

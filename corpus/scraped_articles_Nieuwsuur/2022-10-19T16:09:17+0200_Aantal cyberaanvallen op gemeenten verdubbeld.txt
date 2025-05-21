@@ -1,0 +1,25 @@
+Aantal cyberaanvallen op gemeenten verdubbeld
+2022-10-19T16:09:17+0200
+https://nos.nl/nieuwsuur/artikel/2449019-aantal-cyberaanvallen-op-gemeenten-verdubbeld
+
+Dieuwke van Ooij
+verslaggever Nieuwsuur
+Dieuwke van Ooij
+verslaggever Nieuwsuur
+Het aantal cyberaanvallen op Nederlandse gemeenten is het afgelopen jaar sterk toegenomen. De afgelopen twee jaar waren er vijf grote cyberincidenten. Ook zijn er twee keer zo veel risicovolle, zwakke plekken in de software van gemeenten opgespoord.
+Dat blijkt uit het nieuwe tweejaarlijkse Dreigingsbeeld van de Informatiebeveiligingsdienst (IBD) van de Vereniging Nederlandse Gemeenten (VNG).
+Het aantal incidenten neemt dus toe, het wordt steeds complexer om ze het hoofd te bieden en de impact is steeds ernstiger. Criminelen aarzelen niet om privacygevoelige gegevens van inwoners, bedrijven en medewerkers online te publiceren.
+Zo werd de gemeente Buren dit jaar getroffen door een ransomware aanval. Bij de hack zijn gegevens van de gemeente gestolen. Vervolgens is een grote hoeveelheid privacygevoelige data gepubliceerd op het darkweb.
+Burgemeesters vertellen over hun ervaringen met hacks:
+De IBD staat gemeenten bij op het vlak van preventie en is dag en nacht beschikbaar om te helpen bij cyberincidenten. Het afgelopen jaar kreeg de IBD 3000 verzoeken om hulp, tien procent daarvan was in verband met een incident. Het gaat om kleine en grote incidenten, zoals de zogeheten ransomware-aanvallen, waarbij hackers om losgeld vragen.
+Nausikaä Efstratiades, hoofd van de IBD: "Als je kijkt naar het aantal incidenten dan zaten we vorig jaar op 150, nu op 300. De situatie is ernstig en vraagt om actie."
+Gevallen met een hoge kans op misbruik en ernstige gevolgen komen in de afgelopen jaren relatief steeds vaker voor, staat in het Dreigingsbeeld:
+Niet alleen gemeenten hebben last van een toenemend aantal cyberdreigingen, maar overheden, en dus ook gemeenten, zijn wel extreem kwetsbaar, komt naar voren uit data van het cyberbeveiligingsbedrijf Hunt & Hackett, dat veel in opdracht van gemeenten werkt en het Dreigingsbeeld van de IBD ondersteunt.
+"De kwetsbaarheid heeft ermee te maken dat gemeenten zich er niet altijd bewust van zijn welk type data zij te beschermen hebben. En dat er nog te weinig aandacht voor is geweest", zegt een onderzoeker van Hunt & Hackett.
+De gemeenten werken met grote hoeveelheden persoonsgegevens die ook regelmatig worden uitgewisseld met andere partijen. Dat vergroot de kwetsbaarheid, schrijft de IBD. "De afgelopen twee jaar werden gemeenten regelmatig geconfronteerd met incidenten die ontstaan zijn bij derden, waarbij de gevolgen in de eigen gemeente merkbaar waren."
+Als voorbeeld noemt de dienst het werkbedrijf Senzer, een samenwerkingsverband van zeven gemeenten, dat in 2021 werd getroffen door een inbraak op het netwerk. De betaling van uitkeringen liep vertraging op. Systemen waren niet toegankelijk, medewerkers konden daardoor niet op een normale manier hun werk doen.
+De cyberdreigingen komen op de gemeenten af in een tijd waarin ze voor steeds meer taken verantwoordelijk zijn en dus ook steeds meer data in hun beheer hebben. Tegelijkertijd is het beveiligen van de systemen een grote kostenpost geworden die niet iedere gemeente even makkelijk kan betalen. Bovendien is het er niet altijd gekwalificeerd personeel voor handen die de systemen up-to-date kunnen houden.
+Twee weken geleden maakte het kabinet een nieuwe cyberstrategie bekend en is vastgelegd wat er de komende jaren moet gebeuren om Nederlandse overheden beter te beschermen tegen cyberaanvallen. Het is de vraag of gemeenten voldoende geld hebben om aan alle beveiligingseisen te kunnen voldoen.
+Nieuwsuur
+Binnenland
+Deel artikel:

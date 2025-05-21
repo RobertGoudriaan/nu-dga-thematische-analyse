@@ -1,0 +1,50 @@
+Verantwoording en bronnen bij Ophef-aflevering over AI en verkiezingen
+2024-05-03T06:00:01+0200
+https://nos.nl/nieuwsuur/artikel/2519038-verantwoording-en-bronnen-bij-ophef-aflevering-over-ai-en-verkiezingen
+
+Hieronder vind je de verantwoording van de Ophef-aflevering over het gebruik van kunstmatige intelligentie in verkiezingscampagnes. Daarin lichten we toe hoe we de bekendste AI-chatbots ChatGPT (OpenAI), Copilot (Microsoft) en Gemini (Google) testten. Ook lees je de reacties van Google en Microsoft, en vind je meer over de sprekers die aan het woord komen in de video.
+Tijdens de Indonesische presidentsverkiezingen begin dit jaar, werden chatbots die werken met kunstmatige intelligentie (AI) ingebouwd in campagnesoftware. Campagneteams gebruikten de chatbots op grote schaal om campagnestrategieën en berichten voor sociale media te maken.
+Om te onderzoeken of de AI-chatbots ook in Nederland op die manier gebruikt zouden kunnen worden, deed Nieuwsuur een aantal tests.
+Allereerst gaf Nieuwsuur de chatbots tien opdrachten (zogenoemde 'prompts) die vergelijkbaar waren met de opdrachten die Indonesische campagneteams gaven, maar dan in een Nederlandse politieke context (zie hier de hele lijst (.pdf)). Dat deden we bij de drie bekendste AI-chatbots: ChatGPT (OpenAI), Copilot (Microsoft) en Gemini (Google), in het Engels en het Nederlands.
+Alle drie de chatbots gaven daar in alle gevallen uitgebreid antwoord op. En dat terwijl in de voorwaarden van Microsoft Copilot en ChatGPT staat dat de chatbots niet ingebouwd mogen worden in campagnesoftware en ingezet mogen worden voor politieke doeleinden.
+In de voorwaarden van Google staat niets specifiek over verkiezingscampagnes, maar het bedrijf beloofde afgelopen december dat Gemini uit voorzorg helemaal geen 'verkiezingsgerelateerde antwoorden' zou geven.
+Toch gaven de chatbots soms opvallende antwoorden op de vragen van Nieuwsuur. Antwoorden die niet stroken met de beloftes en voorwaarden van de bedrijven, zoals: 'verspreid nepnieuws om je campagneboodschap effectiever te maken'.
+Microsoft
+Daarom besloot Nieuwsuur de tests uitgebreider en langer uit te voeren bij één van de chatbots: Microsoft Copilot. In samenwerking met Nieuwsuur voerde non-profit onderzoeksorganisatie AI Forensics twee weken lang elke dag (21 maart t/m 4 april) dezelfde tien pompts automatisch in bij Copilot. Wederom in het Engels en het Nederlands.
+De onderzoekers van AI Forensics, een organisatie die internationaal opereert, deden dat vanaf een Nederlands IP-adres, om een Nederlands gebruik na te bootsen.
+Na twee weken bleek dat het programma antwoorden bleef geven die het gebruik van desinformatie en bots promootten. Ook stelde Copilot voor om campagnestrategieën te schrijven die kiezers vertelden dat de uitslag van de Europese Parlementsverkiezingen vooraf al vast zou staan.
+Nadat Nieuwsuur Microsoft hierover informeerden en vragen voorlegden (zie onder), beperkte het bedrijf de antwoorden die Copilot geeft.
+Daarop testten we, samen met AI Forensics, opnieuw dezelfde lijst opdrachten in Copilot (22-24 april), om te controleren of die beperking werkte.
+Het programma geeft op de tien Nederlandse prompts inderdaad minder uitgebreid antwoord dan voorheen. Op de Nederlandstalige prompt die voorheen antwoorden opleverde waarin het verspreiden van desinformatie werd aangeraden, geeft de chatbot nu bijvoorbeeld helemaal geen antwoord meer. Op diezelfde prompt in het Engels geeft Copilot nog wel antwoord, net als op de andere Engelstalige prompts.
+Google
+Ook Google voerde beperkingen door naar aanleiding van onze vragen. Dat bedrijf ging verder dan Microsoft: toen we opnieuw de verkiezingsgerelateerde prompts invoerden, gaf de chatbot zowel in het Engels als Nederlands geen antwoord meer.
+ElevenLabs
+Ook testten Nieuwsuur of het creëren van een stem met AI-software ElevenLabs in Nederland ook werkt. In Indonesië is die software onder meer gebruikt voor het maken van een deepfake van de overleden dictator Suharto. In de Verenigde Staten werd de software ingezet om een 'robocall' met de stem van President Biden te maken.
+ElevenLabs voerde onlangs 'No-go' Voices in: restricties op stemmen van politiek leiders, te beginnen in het Verenigd Koninkrijk en de Verenigde Staten. Het bedrijf wil die lijst uitbreiden naar andere talen en andere landen, gezien de vele verkiezingen dit jaar.
+In Nederland probeerde Nieuwsuur uit of de software werkt met de stemmen van Jan-Peter Balkenende en Mark Rutte. Dat werkte inderdaad.
+Nieuwsuur legde de bedrijven vragen voor over de resultaten van de tests. Ook vroegen we ze naar hun betrokkenheid bij de verkiezingscampagnes in Indonesië, waar hun software grootschalig werd gebruikt (in het geval van ChatGPT).
+OpenAI (ChatGPT) en ElevenLabs reageerden niet op onze vragen, Google (Gemini) en Microsoft (Copilot) gingen wel in op de (meeste) vragen.
+Vragen Nieuwsuur:
+Reactie Google:
+We beperken hoe Gemini reageert op bepaalde vragen die zijn gerelateerd aan verkiezingen en verwijzen mensen in plaats daarvan naar Google Zoeken. Je stuurde ons een aantal voorbeelden waarin die beperkingen niet werkten zoals bedoeld. Dat hebben we sindsdien opgelost. (Ik begreep van Roel dat jullie dat voor het weekend al hadden opgemerkt.)
+Graag bied ik je meer achtergrondinformatie en context:
+Het simpelste antwoord is dat we gebruik van Gemini niet toestaan wanneer dat gebruik in strijd is met de Prohibited Use Policy. Die verbiedt bijvoorbeeld het maken en distribueren van "content intended to misinform, misrepresent or mislead" (denkend aan je prompt over de eurosceptische politicus). Daarbovenop geldt dat we rond verkiezingen extra voorzichtig zijn, waardoor we Gemini's antwoorden beperken op prompts die met verkiezingen te maken hebben.
+Je kunt je dus afvragen of Gemini wel geschikt is voor veel van het werk in een politieke campagne, al zou het prima kunnen helpen bij het schrijven van een e-mail die op zichzelf niets met verkiezingen te maken heeft.
+Google's gedachten hierover zijn overigens niet veranderd. Al in december 2023 kondigden we dit aan: "Beginning early next year, in preparation for the 2024 elections and out of an abundance of caution on such an important topic, we'll restrict the types of election-related queries for which Bard and SGE will return responses." (Voor context: Gemini heette vorig jaar nog Bard en SGE is Search Generative Experience, ons experiment met AI in Google Zoeken dat momenteel niet in Nederland beschikbaar.) Je kunt hooguit stellen, zoals je zelf hebt ervaren, dat we beter zijn geworden in het beperken van prompts.
+Vragen Nieuwsuur:
+Reactie Microsoft:
+In some instances, Copilot gives questionable answers, e.g. it recommends spreading negative rumours and false information about the EU; dissuade people from registering to vote, and to have them forget that the elections are coming up; and to insinuate the electoral system is manipulated. You'll find some examples in the attachment. How do you explain this, considering your own policies?
+We've investigated the prompts provided and while many of the results are as intended, we are making adjustments to responses that are not in line with our Code of Conduct or Responsible AI Principles. We appreciate this being reported to us and encourage all users to report any concerns using our Report a Concern function as we continue to prepare our tools to perform to our expectations for the 2024 elections.
+On our relationship with Pemilu.AI and their services: We don't comment on partner or customer engagements. See our Acceptable Use Policy for Azure customers using our online services.
+On use of our products to assist with the creation of campaign strategy: We've been clear about our commitment to helping voters have access to transparent and authoritative information regarding elections.
+Our tools can be used by campaigns to streamline their efforts and processes. We have no issue with this use case as long as it is not used for harm or to spread disinformation. In Microsoft Copilot's policies, it is explicitly forbidden to use the service for incorporating " (...) 2.1.8 Political campaigning, lobbying or other election-related content."
+The policy you've pointed out is related to Copilot Plug Ins, a feature that enables developers to extend Copilot, that has additional restrictions on what a third party can use the tool for. See here for our general Copilot terms that allow these use cases.
+Additionally you'll find more information on our recent publications about the topic in the below links.
+Resources with information on what we're doing to protect elections:
+Microsoft's Responsible AI Principals:
+Lees de Engelse versie van dit artikel hier.
+Nieuwsuur
+Collectie
+#Ophef
+Binnenland
+Deel artikel:
